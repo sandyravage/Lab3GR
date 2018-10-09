@@ -1,0 +1,7 @@
+C:\Users\TEVERTS\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\Lab3GC.csprojAssemblyReference.cache
+C:\Users\TEVERTS\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\Lab3GC.csproj.CoreCompileInputs.cache
+C:\Users\TEVERTS\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\TEVERTS\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\TEVERTS\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\TEVERTS\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\TEVERTS\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
