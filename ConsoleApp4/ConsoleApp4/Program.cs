@@ -18,7 +18,7 @@ namespace ConsoleApp4
             Console.WriteLine(name + "! Enter a number between 1 and 100, and perhaps I will be merciful.");
             integer = int.Parse(Console.ReadLine());
 
-            if (integer >= 0 && integer <= 100)
+            if (integer > 0 && integer <= 100)
             {
                 if(integer % 2 != 0)
                 {
