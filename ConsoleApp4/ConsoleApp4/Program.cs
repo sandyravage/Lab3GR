@@ -41,7 +41,11 @@ namespace ConsoleApp4
                     {
                         Console.WriteLine("Even and less than 25");
                     }
-                    if (integer % 2 == 0 && integer >= 26)
+                    if (integer % 2 == 0 && integer >= 26 && integer <= 60)
+                    {
+                        Console.WriteLine("Even");
+                    }
+                    if (integer % 2 == 0 && integer > 60)
                     {
                         Console.WriteLine(integer + " Even");
                     }
@@ -55,7 +59,7 @@ namespace ConsoleApp4
                 Continue.ToLower();
             }
 
-            Console.WriteLine(name + ", press any key to exit");
+            Console.WriteLine(name + ", please press any key to exit");
             Console.ReadKey();
         }
     }
